@@ -1,0 +1,419 @@
+{
+  "InventoryItem": [
+    {
+      "Id": "i1",
+      "Name": "Trà Sữa Hồng Kông",
+      "ImageURL": "https://images.foody.vn/res/g72/711537/prof/s640x400/foody-mobile-25994623_13503738184.jpg",
+      "CategoryID": "6",
+      "CategoryName": "Đồ uống pha chế",
+      "Price": 25000,
+      "Description": "Đồ uống",
+      "Active": true,
+      "UnitID": "1",
+      "UnitName": "Cốc",
+      "SellerID": "s1"
+    },
+    {
+      "Id": "i2",
+      "Name": "Mì Trộn",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 20000,
+      "Description": "Đồ ăn",
+      "Active": true,
+      "UnitID": "2",
+      "UnitName": "Suất",
+      "SellerID": "s2"
+    },
+    {
+      "Id": "i3",
+      "Name": "Cháo Lòng",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 35000,
+      "Description": "Đồ ăn",
+      "Active": true,
+      "UnitID": "2",
+      "UnitName": "Suất",
+      "SellerID": "s3"
+    },
+    {
+      "Id": "i4",
+      "Name": "Bánh Mì",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 19000,
+      "Description": "Đồ ăn",
+      "Active": true,
+      "UnitID": "3",
+      "UnitName": "Cái",
+      "SellerID": "s4"
+    },
+    {
+      "Id": "i5",
+      "Name": "Doner Kebab",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 19000,
+      "Description": "Đồ ăn",
+      "Active": true,
+      "UnitID": "3",
+      "UnitName": "Cái",
+      "SellerID": "s5"
+    },
+    {
+      "Id": "i6",
+      "Name": "Bún, Miến & Phở Trộn",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 35000,
+      "Description": "Đồ ăn",
+      "Active": true,
+      "UnitID": "2",
+      "UnitName": "Suất",
+      "SellerID": "s6"
+    },
+    {
+      "Id": "i7",
+      "Name": "Trà Bí Đao",
+      "ImageURL": "",
+      "CategoryID": "6",
+      "CategoryName": "Đồ uống pha chế",
+      "Price": 35000,
+      "Description": "Đồ uống",
+      "Active": true,
+      "UnitID": "1",
+      "UnitName": "Cốc",
+      "SellerID": "s7"
+    },
+    {
+      "Id": "i8",
+      "Name": "Trà chanh",
+      "ImageURL": "",
+      "CategoryID": "6",
+      "CategoryName": "Đồ uống pha chế",
+      "Price": 39000,
+      "Description": "Đồ uống",
+      "Active": true,
+      "UnitID": "1",
+      "UnitName": "Cốc",
+      "SellerID": "s8"
+    },
+    {
+      "Id": "i9",
+      "Name": "Pizza Hoa Quả",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 75000,
+      "Description": "Đồ ăn",
+      "Active": true,
+      "UnitID": "3",
+      "UnitName": "Cái",
+      "SellerID": "s9"
+    },
+    {
+      "Id": "i10",
+      "Name": "Peanuts",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 50000,
+      "Description": "Đồ chay",
+      "Active": true,
+      "UnitID": "2",
+      "UnitName": "Suất",
+      "SellerID": "s10"
+    },
+    {
+      "Id": "i11",
+      "Name": "Salad Đậu xanh",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 75000,
+      "Description": "Đồ chay",
+      "Active": true,
+      "UnitID": "2",
+      "UnitName": "Suất",
+      "SellerID": "s10"
+    },
+    {
+      "Id": "i12",
+      "Name": "Salad Hoa Quả",
+      "ImageURL": "",
+      "CategoryID": "1",
+      "CategoryName": "Món ăn",
+      "Price": 105000,
+      "Description": "Đồ chay",
+      "Active": true,
+      "UnitID": "2",
+      "UnitName": "Suất",
+      "SellerID": "s10"
+    }
+  ],
+  "SellerList": [
+    {
+      "Id": "s1",
+      "Name": "Royaltea - Trà Sữa Hồng Kông - Thượng Đình",
+      "Email": "royalthuongdinh@bev.com",
+      "Tel": "0123001",
+      "Address": {
+        "number": 84,
+        "street": "Thượng Đình",
+        "city": "Hà Nội",
+        "geo": {
+          "lat": "21.000253187868637",
+          "lng": "105.8177819266647"
+        }
+      },
+      "password": "royal01",
+      "Permission": 2
+    },
+    {
+      "Id": "s2",
+      "Name": "Mì Trộn Indomie",
+      "Email": "mitron@food.com",
+      "Tel": "0123002",
+      "Address": {
+        "number": 76,
+        "street": "Bùi Ngọc Dương",
+        "city": "Hà Nội",
+        "geo": {
+          "lat": "21.000252469115225",
+          "lng": "105.85318648571098"
+        }
+      },
+      "password": "mi02",
+      "Permission": 2
+    },
+    {
+      "Id": "s3",
+      "Name": "Cháo Lòng Ngon & Bún Đậu Mẹt",
+      "Email": "chaolong@fd.com",
+      "Tel": "0123003",
+      "Address": {
+        "number": 59,
+        "street": "Nguyễn Công Hoan",
+        "city": "Hà Nội",
+        "geo": {
+          "lat": "21.028288474186066",
+          "lng": "105.81344952467063"
+        }
+      },
+      "password": "chao03",
+      "Permission": 2
+    },
+    {
+      "Id": "s4",
+      "Name": "Umbala Bánh Mì & Xôi",
+      "Email": "umbala@fd.com",
+      "Tel": "0123004",
+      "Address": {
+        "number": 35,
+        "street": "Ngô Thì Sỹ",
+        "city": "Hà Nội",
+        "geo": {
+          "lat": "20.9791058019592",
+          "lng": "105.77689627732954"
+        }
+      },
+      "password": "bami04",
+      "Permission": 2
+    },
+    {
+      "Id": "s5",
+      "Name": "Bánh Mì Doner Kebab",
+      "Email": "bamiKebab@fd.com",
+      "Tel": "0123005",
+      "Address": {
+        "number": 10,
+        "street": "Nguyễn Trãi",
+        "city": "Hà Nội",
+        "geo": {
+          "lat": "20.97328868579647",
+          "lng": "105.77929230777079"
+        }
+      },
+      "password": "kebab05",
+      "Permission": 2
+    },
+    {
+      "Id": "s6",
+      "Name": "Bếp Mẹ Thỏ - Bún, Miến & Phở Trộn",
+      "Email": "rabbitNoddle@fd.com",
+      "Tel": "0123006",
+      "Address": {
+        "number": 37,
+        "street": "Đông Thiên",
+        "city": "Hà Nội",
+        "geo": {
+          "lat": "20.987145682780735",
+          "lng": "105.88128383214108"
+        }
+      },
+      "password": "tho06",
+      "Permission": 2
+    },
+    {
+      "Id": "s7",
+      "Name": "Trà Bí Đao Chia Chia",
+      "Email": "bidao@bev.com",
+      "Tel": "0123007",
+      "Address": {
+        "number": 114,
+        "street": "Hùng Vương",
+        "city": "Huế",
+        "geo": {
+          "lat": "16.458829430550022",
+          "lng": "107.59960341119455"
+        }
+      },
+      "password": "chia07",
+      "Permission": 2
+    },
+    {
+      "Id": "s8",
+      "Name": "King - Tea & Food",
+      "Email": "kingtea@bev.com",
+      "Tel": "0123008",
+      "Address": {
+        "number": 13,
+        "street": "Nguyễn Trãi",
+        "city": "Huế",
+        "geo": {
+          "lat": "16.46473978170919",
+          "lng": "107.57561258234027"
+        }
+      },
+      "password": "king08",
+      "Permission": 2
+    },
+    {
+      "Id": "s9",
+      "Name": "Herbal Pizza Restaurant",
+      "Email": "pizaangon@fd.com",
+      "Tel": "0123009",
+      "Address": {
+        "number": 599,
+        "street": "Hai Bà Trưng",
+        "city": "Quảng Nam",
+        "geo": {
+          "lat": "15.882595263134649",
+          "lng": "108.32594895882158"
+        }
+      },
+      "password": "pizza09",
+      "Permission": 2
+    },
+    {
+      "Id": "s10",
+      "Name": "Peanuts - Vietnamese Vegan Food",
+      "Email": "vegan@fd.com",
+      "Tel": "0123010",
+      "Address": {
+        "number": 69,
+        "street": "Tống Văn Sương",
+        "city": "Quảng Nam",
+        "geo": {
+          "lat": "15.882687070404167",
+          "lng": "108.35804663933007"
+        }
+      },
+      "password": "peanut10",
+      "Permission": 2
+    }
+  ],
+  "CustomerInforList": [
+    {
+      "Id": "KH1",
+      "Name": "Xuân Diệu",
+      "Email": "vidieu@art.com",
+      "Tel": "099001",
+      "Address": {
+        "number": 11,
+        "street": "Can Lộc ",
+        "city": "Hà Tĩnh"
+      },
+      "password": "dieu01",
+      "Permission": 3
+    },
+    {
+      "Id": "KH2",
+      "Name": "Tú mỡ",
+      "Email": "tumo@art.com",
+      "Tel": "099002",
+      "Address": {
+        "number": 32,
+        "street": "Hàng Hòm",
+        "city": "Hà Nội"
+      },
+      "password": "tu02",
+      "Permission": 3
+    },
+    {
+      "Id": "KH3",
+      "Name": "Hàn Mặc Tử",
+      "Email": "hantu@art.com",
+      "Tel": "099003",
+      "Address": {
+        "number": 24,
+        "street": "Đồng Hới",
+        "city": "Quảng Bình"
+      },
+      "password": "han03",
+      "Permission": 3
+    },
+    {
+      "Id": "KH4",
+      "Name": "Tố Hữu",
+      "Email": "tohuu@art.com",
+      "Tel": "099004",
+      "Address": {
+        "number": 98,
+        "street": "Quảng Điền",
+        "city": "Huế"
+      },
+      "password": "huu04",
+      "Permission": 3
+    }
+  ],
+  "Cart": [
+    {
+      "OrderItemId": "i3",
+      "OrderCustomerId": "KH4",
+      "Quantity": 5,
+      "Status": "Chờ xác nhận"
+    },
+    {
+      "OrderItemId": "i7",
+      "OrderCustomerId": "KH4",
+      "Quantity": 1,
+      "Status": "Chờ xác nhận"
+    },
+    {
+      "OrderItemId": "i9",
+      "OrderCustomerId": "KH1",
+      "Quantity": 3,
+      "Status": "Chờ xác nhận"
+    },
+    {
+      "OrderItemId": "i3",
+      "OrderCustomerId": "KH1",
+      "Quantity": 10,
+      "Status": "Chờ xác nhận"
+    }
+  ],
+  "Admin": [
+    {
+      "Id": "admin",
+      "Password": "admin",
+      "Permission": 1
+    }
+  ]
+}
